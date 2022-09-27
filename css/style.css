@@ -1,20 +1,32 @@
 body{
     height: 100vh;
+    font-size: 12px;
 }
 
 .box{
-    background-color: aqua;
-    width: 40%;
-    height: 60%;
+    width: 60%;
 }
 .box2{
-    background-color: aqua;
+    background-color: white;
+
 
 }
 
 .cont{
-    background-color: red;
-    background-image: url(/img/fondo.jpg);
+    background-image: url(/fsd-val-bootstrap-27-9-22/img/fondo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+
+.inputcontainer{
+    background-color: brown;
+}
+
+.fontsize{
+    font-size: small;
+}
+
+#colored{
+    background-color: rgb(216, 215, 215);
 }
