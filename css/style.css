@@ -13,7 +13,7 @@ body{
 }
 
 .cont{
-    background-image: url(/fsd-val-bootstrap-27-9-22/img/fondo.jpg);
+    background-image: url(./img/fondo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
